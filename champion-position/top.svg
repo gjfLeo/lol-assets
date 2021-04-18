@@ -1,7 +1,5 @@
-<svg viewBox="0 0 16 16">
-    <g fill="none" fill-rule="evenodd">
-        <path fill="lightgray" d="M5.867 10.133h4.266V5.867H5.867z"></path>
-        <path fill="lightgray" d="M16 16V1.25L13.172 4.08v9.093H4.078L1.25 16z"></path>
-        <path fill="rgb(208, 168, 92)" d="M0 0v14.75l2.828-2.829V2.828h9.094L14.75 0z"></path>
-    </g>
+<svg viewBox="0 0 100 100" fill="rgb(208, 168, 92)">
+    <path fill-opacity="0.3" d="M11.11 100l16.67-16.67h55.55V27.78L100 11.11V100z"></path>
+    <path fill-opacity="0.3" d="M38.94 38.94v22.24h22.24V38.94z"></path>
+    <path d="M0 0v88.89l16.67-16.67V16.67h55.55L88.89 0z"></path>
 </svg>
